@@ -2,7 +2,7 @@
     "name": "paimon",
     "version": "1.0.0",
     "description": "",
-    "main": "test.js",
+    "main": "main.js",
     "author": "Maxime",
     "license": "ISC",
     "dependencies": {

@@ -18,6 +18,13 @@ client.on("message", function (message) {
     //message privé
     if(message.channel.type == "dm"){message.channel.send("MIAOU !")}
 
+    //première fois que la personne parle dans le discord, a mettre tout en haut des autres commandes OBLIGATOIREMENT
+    if(`${bdd[`${idAuthorId}`]}` === "undefined"){
+        bdd[`${idAuthorId}`] = {};
+        bdd[`${idAuthorId}`]["Punition"] = false;
+        Savebdd();
+    }
+
     //variable autour de l'utilisateur
     idAuthor = message.author.tag;
     idAuthor = idAuthor.slice(0,-5);

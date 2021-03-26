@@ -1,0 +1,92 @@
+{
+    "cat": [
+        {
+            "color": "#0099ff",
+            "name": "Lulu le Chat",
+            "titre1": "A MANGER !",
+            "value1": "Lorsque la nourriture est servie, LuLu est le premier à se déplacer derrière Claire partout.",
+            "titre2": "GEEK",
+            "value2": "Parfois, LuLu vient et s’assoit sur l’ordinateur portable de Claire, tapant quelque chose.",
+            "titre3": "CUTE",
+            "value3": "Juste trop mignon en faite.",
+            "image": "https://i.redd.it/u9mecs3pzji31.jpg"
+        },
+        {
+            "color": "#FF33F0",
+            "name": "Lala le Chat",
+            "titre1": "La Testas",
+            "value1": "LaLa est considérée comme la beauté du groupe et est souvent appelée le bébé de Claire.",
+            "titre2": "DD le sang !",
+            "value2": "Elle partage un lien avec DD dès le premier jour où ils se sont rencontrés, elle aurait même attaqué TT notoirement malsain pour le défendre.",
+            "titre3": "Tourner dans le vide",
+            "value3": "Quand Claire a introduit une roue de roulement à l’appartement, c’est LaLa qui a fini par l’utiliser le plus.",
+            "image": "https://i.redd.it/dcw395nhy7n41.png"
+        },
+        {
+            "color": "#33FF74",
+            "name": "Coco le Chat",
+            "titre1": "Alias Doc Gyneco",
+            "value1": "Claire l’a nommé Dr CoCo en raison de sa nature naturellement curieuse.",
+            "titre2": "Les collations",
+            "value2": "CoCo aime les collations plus que la nourriture.",
+            "titre3": "La flemme !",
+            "value3": "Il est un peu paresseux et n’aime pas être dérangé  c’est pourquoi il ne se présente pas devant la caméra aussi souvent que d'autres chats.",
+            "image": "https://static.wikia.nocookie.net/creamheroes/images/2/28/2E8B75B6-9604-44EB-B08D-BC3D0FD8F42F.jpeg/revision/latest?cb=20190829110401"
+        },
+        {
+            "color": "#D79E24",
+            "name": "Chuchu le Chat",
+            "titre1": "SDF ?",
+            "value1": "ChuChu a été adopté par Claire après avoir reçu un appel d’une personne qui a remarqué ChuChu comme chaton errant.",
+            "titre2": "G PEUR !",
+            "value2": "ChuChu est généralement un chat très anxieux, va rapidement fuir des situations inconnues et est donc le chat avec le moins de temps à l’écran.",
+            "titre3": "Lélian like",
+            "value3": "Elle aime dormir.",
+            "image": "https://i.redd.it/mj21fz3a8h451.jpg"
+        },
+        {
+            "color": "#F2FD47",
+            "name": "TT le Chat",
+            "titre1": "Toto like",
+            "value1": "TT est connu pour être le plus grognon des chats.",
+            "titre2": "Distance de sécurité",
+            "value2": "Alors qu’elle est amicale envers Claire, elle frappe les autres chats s’ils s’approchent trop d’elle.",
+            "titre3": "Miam !",
+            "value3": "Pendant un certain temps, elle ne mangeait que des collations mais pas de nourriture ou de suppléments. Donc, pour savoir qu'elle nourriture TT aime, elle a acheté dans de nombreuses marques différentes de la nourriture pour chat. TT aimait chaque marque, donc, confus, Claire a distribué la nourriture parmi les sept chats afin qu’ils puissent savoir ce qu’ils aimaient.",
+            "image": "https://i.redd.it/2zrva6dh1lr41.jpg"
+        },
+        {
+            "color": "#6FFA32",
+            "name": "DD le Chat",
+            "titre1": "Portier de métier",
+            "value1": "C'est le seul chat du groupe qui est capable d’ouvrir les portes et les tiroirs.",
+            "titre2": "Miam !",
+            "value2": "Il aime le pain.",
+            "titre3": "Friendly",
+            "value3": "Il est généralement le premier à s’approcher sans crainte et à inspecter de nouveaux articles ou visiteurs.",
+            "image": "https://static.wikia.nocookie.net/creamheroes/images/7/72/0506FCED-9374-4AB3-9726-B8E4B2599900.jpeg/revision/latest?cb=20190914021428"
+        },
+        {
+            "color": "#7532FA",
+            "name": "Momo le Chat",
+            "titre1": "Le François Hollande des chats",
+            "value1": "Claire symbolise MoMo en tant que 'Président MoMo' en raison de ses apparitions.",
+            "titre2": "Ecoutez moi, Peuple !",
+            "value2": "Lorsqu’il est exprimé par Claire, MoMo a une voix dure et âgée comme un vieux président.",
+            "titre3": "Pas de mini merdeux ici !",
+            "value3": "Il n’y a qu’une seule chose que le président craint vraiment : Les bébés humains.",
+            "image": "https://i.redd.it/aadhhquasgj41.png"
+        },
+        {
+            "color": "#953D00",
+            "name": "Toto et Dodo les Chats",
+            "titre1": "Les nouveaux !",
+            "value1": "Les deux derniers du groupe. Ils se ressemblent un peu je trouve.",
+            "titre2": "Si jeune !",
+            "value2": "Ils ont été vu pour la première fois dans la vidéo datant du 10 août 2020.",
+            "titre3": "Lulu Grand Fan !",
+            "value3": "Ils apprécient Lulu comme vous pouvez le voir sur cette photo.",
+            "image": "https://i.redd.it/94eqvookub061.jpg"
+        }
+    ]
+}

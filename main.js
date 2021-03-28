@@ -68,8 +68,9 @@ client.on("message", function (message) {
     
     //miaou ou Miaou ou cat ou Cat
     if (message.content.includes("Miaou") || message.content.includes("miaou") || message.content.includes("cat") || message.content.includes("Cat")) {
-    
-        var random = Math.floor((Math.random() * 8) + 0)
+        
+        var random = 8
+        //var random = Math.floor((Math.random() * 8) + 0)
         var embed = new Discord.MessageEmbed()
             .setColor(`${bdd["cat"][random]["color"]}`)
             .setTitle("Quel chat suis-je ?")

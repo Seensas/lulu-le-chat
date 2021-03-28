@@ -87,6 +87,17 @@
             "titre3": "Lulu Grand Fan !",
             "value3": "Ils apprécient Lulu comme vous pouvez le voir sur cette photo.",
             "image": "https://i.redd.it/94eqvookub061.jpg"
+        },
+        {
+            "color": "#7EC59ff",
+            "name": "Simba le Chat",
+            "titre1": "Influenceur chat",
+            "value1": "Connu sur Instagram pour ses nombreuses photos et ses nombreux followers.",
+            "titre2": "Son nom est célèbre ",
+            "value2": "Simba étant le petit lion du roi lion, Simba est donc le petit chat du royaume de l'instagram.",
+            "titre3": "TROP MIGNON",
+            "value3": "Il est trop choupi",
+            "image": "https://i.pinimg.com/originals/03/fe/20/03fe203b29674dcaf977917abcaeba08.jpg"
         }
     ]
 }

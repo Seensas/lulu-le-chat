@@ -73,7 +73,7 @@ client.on("message", function (message) {
         var random = Math.floor((Math.random() * 8) + 0)
         var embed = new Discord.MessageEmbed()
             .setColor(`${bdd["cat"][random]["color"]}`)
-            .setTitle("Quel chat suis-je ?")
+            .setTitle(`Quel chat suis-je ? ${random}/9`)
             .setDescription(`Je suis ${bdd["cat"][random]["name"]}`)
             .addFields(
                 {name: `${bdd["cat"][random]["titre1"]}`, value:`${bdd["cat"][random]["value1"]}`},
